@@ -1,8 +1,7 @@
 
 Nikita Davydov, group 122
 
-My OpenProccessing profile:
-https://openprocessing.org/user/344085?view=activity&o=1
+My OpenProccessing profile: https://openprocessing.org/user/344085?view=activity&o=1
 
 My CodePen profile: https://codepen.io/NikitaDavydov11
 
@@ -24,7 +23,7 @@ My Wordpress site: https://wordpress.com/post/github83.wordpress.com/6
 
 8. Task1.py  Task2.py   Task3.py - Задачи на Python (ЕГЭ + обычные задачи)
 
-9. 
+9. Снимок.PNG - Нейросеть
 
 
 
