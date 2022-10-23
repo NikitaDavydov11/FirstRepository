@@ -21,9 +21,13 @@ My Wordpress site: https://wordpress.com/post/github83.wordpress.com/6
 
 7. bool.xlsx - булева алгебра
 
-8. Task1.py  Task2.py   Task3.py - Задачи на Python (ЕГЭ + обычные задачи)
+8. Task1.py - перевод в другую систему счисления
 
-9. Снимок.PNG - Нейросеть
+9. Пер из 10 не в 10 - Перевод из десятичной СС в указанную
+
+10. Task3.py - Таблица умножения
+
+11. Снимок.PNG - Нейросеть
 
 
 
