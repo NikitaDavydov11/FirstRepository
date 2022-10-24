@@ -1,0 +1,5 @@
+SHOW TABLES = узнаем названия таблиц.
+SELECT * FROM USERS - вывести всех учеников
+SELECT * FROM GRADES - вывести оценки
+SELECT * FROM USERS, grades WHERE users.user_id = grades.user_id - ищем у кого оценки
+SELECT * FROM users WHERE fam = "Давыдов" - ищем себя
