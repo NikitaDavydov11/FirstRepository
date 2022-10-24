@@ -29,5 +29,5 @@ My Wordpress site: https://wordpress.com/post/github83.wordpress.com/6
 
 11. Снимок.PNG - Нейросеть
 
-
+12. SQL.txt - база данных
 
