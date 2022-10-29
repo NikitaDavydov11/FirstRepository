@@ -31,3 +31,5 @@ My Wordpress site: https://wordpress.com/post/github83.wordpress.com/6
 
 12. SQL.txt - база данных
 
+13. $$ \overline{A \wedge B} = \overline{A} \vee \overline{B} $$
+
