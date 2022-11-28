@@ -37,4 +37,6 @@ $$\overline{A \wedge B} = \overline{A} \vee \overline{B}$$
 
 14. $$\bar{E_0^{2}} = \sqrt[2]{\frac{F a_0^{2}}{(x-1)\cdot x } }+a_1^{2}+\beta_1^{2}$$
 
+15. slidpopka.py - слайдшоу
+
 
