@@ -41,4 +41,12 @@ $$\overline{A \wedge B} = \overline{A} \vee \overline{B}$$
 
 15. slidpopka.py - слайдшоу
 
+```mermaid
+flowchart LR
+
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+```
 
