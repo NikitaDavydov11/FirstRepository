@@ -44,11 +44,5 @@ $$\overline{A \wedge B} = \overline{A} \vee \overline{B}$$
 ```mermaid
 flowchart LR
 
-A[10 class] -->|Аттестация| B(11 class)
-B --> C{EGE}
-C -->|плохо| D[Армия]
-D --> G{Мальчик}
-D --> E{Девочка}
-C -->|хорошо| E[Вуз]
-```
+mermaid flowchart LR A[10] -->|аттестация| B(11) B --> C{ЕГЭ} C --> D[Мальчик] D --> |Плохо|G[Армия] D --> |Хорошо|H[ВУЗ] C --> E[Девочка] E --> |Плохо|I[ХЗ] E--> |Хорошо|K[ВУЗ]```
 
