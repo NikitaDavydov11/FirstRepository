@@ -59,4 +59,4 @@ E -->|хорошо| J[вуз]
 
 17. смайлик-армянин.PNG - смайлик
 
-$$![image](https://user-images.githubusercontent.com/114381781/206972240-8102ae50-2f44-4ddb-9778-2c00a5a6a505.png)$$
+![image](https://user-images.githubusercontent.com/114381781/206972240-8102ae50-2f44-4ddb-9778-2c00a5a6a505.png)
