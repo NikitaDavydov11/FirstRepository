@@ -62,10 +62,9 @@ E -->|хорошо| J[вуз]
 ![image](https://user-images.githubusercontent.com/114381781/206972240-8102ae50-2f44-4ddb-9778-2c00a5a6a505.png)
 
 
-Plugin	README
-Dropbox	plugins/dropbox/README.md
-GitHub	plugins/github/README.md
-Google Drive	plugins/googledrive/README.md
-OneDrive	plugins/onedrive/README.md
-Medium	plugins/medium/README.md
-Google Analytics	plugins/googleanalytics/README.md
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
