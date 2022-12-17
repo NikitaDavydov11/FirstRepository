@@ -62,26 +62,28 @@ E -->|хорошо| J[вуз]
 ![image](https://user-images.githubusercontent.com/114381781/206972240-8102ae50-2f44-4ddb-9778-2c00a5a6a505.png)
 
 
-| Plugin | README |
+ЕГЭ по информатике
+
+| Номер | Статус решения |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| 1 | - |
+| 2 | - |
+| 3 | - |
+| 4 | [plugins/onedrive/README.md][PlOd] |
+| 5 | [plugins/medium/README.md][PlMe] |
+| 6 | [plugins/googleanalytics/README.md][PlGa] |
+| 7 | [plugins/googleanalytics/README.md][PlGa] |
+| 8 | [plugins/googleanalytics/README.md][PlGa] |
+| 9 | [plugins/googleanalytics/README.md][PlGa] |
+| 10 | [plugins/googleanalytics/README.md][PlGa] |
+| 11 | [plugins/googleanalytics/README.md][PlGa] |
+| 12 | [plugins/googleanalytics/README.md][PlGa] |
+| 13 | [plugins/googleanalytics/README.md][PlGa] |
+| 14 | [plugins/googleanalytics/README.md][PlGa] |
+| 15 | [plugins/googleanalytics/README.md][PlGa] |
+| 16 | [plugins/googleanalytics/README.md][PlGa] |
+| 17 | [plugins/googleanalytics/README.md][PlGa] |
+| 18 | [plugins/googleanalytics/README.md][PlGa] |
+| 19 | [plugins/googleanalytics/README.md][PlGa] |
+| 20 | [plugins/googleanalytics/README.md][PlGa] |
+| 21 | [plugins/googleanalytics/README.md][PlGa] |
